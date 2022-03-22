@@ -1,0 +1,4 @@
+of find software bugs using functional and automation tools.
+   And also we can say process of validating/verifaying a software program or application.
+   Two kind of testing - manual and automated. Manual testing = refers to a manual test process to identify bugs by humans.
+   App must be
