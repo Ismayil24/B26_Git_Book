@@ -1,0 +1,9 @@
+
+
+so far we learned git glow for
+commit --> push
+
+and
+
+remote to local
+pull/update
